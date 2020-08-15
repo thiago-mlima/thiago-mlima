@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Thiago Lima&nbsp;
+</h1>
 
-<!--
-**thiago-mlima/thiago-mlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+:link: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Tableau Public][tableau]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="left">
+  
+I am a former language teacher with a business background turned Data Science enthusiast currently working as a Senior Data Analyst at the intersection of Data Engineering, Business Intelligence and Machine Learning in São Paulo, Brazil. 
+
+I spend most of my spare time creating data visualizations, playing sports, watching movies or reading about Behavioral Economics. You can have a look at some of my work on my [Tableau Public][tableau] profile or in my Portfolio. 
+
+Feel free to reach out via [LinkedIn][LinkedIn] or [Email][Email].
+
+</div>
+
+[LinkedIn]:https://www.linkedin.com/in/thiagomoreiradelima/
+[Email]:mailto:thiago.moreira.lima@outlook.com
+[tableau]:https://public.tableau.com/profile/thiago.moreira#!/
