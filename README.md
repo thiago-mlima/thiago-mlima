@@ -12,7 +12,7 @@
   
 I am a former language teacher with a business background turned Data Science enthusiast currently working as a Senior Data Analyst at the intersection of Data Engineering, Business Intelligence and Machine Learning in São Paulo, Brazil. 
 
-I spend most of my spare time creating data visualizations, playing sports, watching movies or reading about Behavioral Economics. You can have a look at some of my work on my [Tableau Public][tableau] profile or in my Portfolio. 
+I spend most of my spare time creating data visualizations, playing sports, watching movies or reading about Behavioral Economics. You can have a look at some of my work on my [Tableau Public][tableau] profile or in my [Portfolio][Portfolio]. 
 
 Feel free to reach out via [LinkedIn][LinkedIn] or [Email][Email].
 
@@ -21,3 +21,4 @@ Feel free to reach out via [LinkedIn][LinkedIn] or [Email][Email].
 [LinkedIn]:https://www.linkedin.com/in/thiagomoreiradelima/
 [Email]:mailto:thiago.moreira.lima@outlook.com
 [tableau]:https://public.tableau.com/profile/thiago.moreira#!/
+[Portfolio]:https://github.com/thiago-mlima/Data-Visualization-Portfolio
