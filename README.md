@@ -10,7 +10,7 @@
 
 <div align="left">
   
-I am a former language teacher with a business background turned Data Science enthusiast specializing in **Data Engineering and Visualization** while leveraging Machine Learning as an adjacent discipline. I am currently working as a Senior Data Analyst in São Paulo, Brazil. 
+I am a former language teacher with a business background turned Data Science enthusiast specializing in **Data Engineering and Visualization** while leveraging Machine Learning as an adjacent discipline. I am currently working as a Product Analyst in São Paulo, Brazil. 
 
 Feel free to reach out via Linkedin or Email.
 
