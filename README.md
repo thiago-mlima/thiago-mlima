@@ -10,7 +10,7 @@
 
 <div align="left">
   
-I'm an BI Lead with over 7 years of experience in data analytics and engineering, including 2+ years in leadership roles. I specialize in Analytics Engineering and Data Visualization, with a proven track record of leading end-to-end analytical projects and promoting best practices. My tools of choice include Tableau, Power BI, dbt, Databricks, SQL, and Python. Feel free reach out.
+I'm an BI Lead with over 7 years of experience in data analytics and engineering, including 2+ years in leadership roles. I specialize in Analytics Engineering and Data Visualization, with a proven track record of leading end-to-end analytical projects and promoting best practices. My tools of choice include Tableau, Power BI, dbt, Databricks, SQL, and Python. Feel free to reach out.
 
 </div>
 
