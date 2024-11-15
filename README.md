@@ -4,7 +4,7 @@
 
 <div align="center">
 
-:link: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Tableau Public][tableau]
+:link: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Tableau Public][tableau]
 
 </div>
 
