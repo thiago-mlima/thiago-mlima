@@ -4,18 +4,15 @@
 
 <div align="center">
 
-:link: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Tableau Public][tableau]
+:link: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:link: [Tableau Public][tableau]
 
 </div>
 
 <div align="left">
   
-I am a former language teacher with a business background turned Data Science enthusiast specializing in **Data Engineering and Visualization** while leveraging Machine Learning as an adjacent discipline. I am currently working as a Product Analyst in São Paulo, Brazil. 
-
-Feel free to reach out via Linkedin or Email.
+I'm an BI Lead with over 7 years of experience in data analytics and engineering, including 2+ years in leadership roles. I specialize in Analytics Engineering and Data Visualization, with a proven track record of leading end-to-end analytical projects and promoting best practices. My tools of choice include Tableau, Power BI, dbt, Databricks, SQL, and Python. Feel free reach out.
 
 </div>
 
 [LinkedIn]:https://www.linkedin.com/in/thiagomoreiradelima/
-[Email]:mailto:thiago.moreira.lima@outlook.com
 [tableau]:https://public.tableau.com/profile/thiago.moreira#!/
